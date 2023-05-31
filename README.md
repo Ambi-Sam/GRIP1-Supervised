@@ -1,4 +1,5 @@
-# GRIP1-Supervised
+# 
+Score_Prediction-Supervised
 Prediction using Supervised ML.
 Supervised learning is a machine learning technique in which an algorithm learns from labeled data to make predictions or decisions.
 In supervised learning, we have a set of input data, also known as features, and corresponding output data, also known as labels or targets.
